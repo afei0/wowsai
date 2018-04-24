@@ -389,6 +389,11 @@ margin-right: 5px;
 	width: 38px;
 
 }
+.fenbg{
+	position: relative;
+	z-index: 99;
+	background-color: #fff;
+}
 .fentop{
 	width: 240px;
 	background-color: #ccc;
