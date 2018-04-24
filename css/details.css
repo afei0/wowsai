@@ -427,6 +427,8 @@ margin-right: 5px;
 	font-size: 14px;
 }
 .fenbg{
+	position: relative;
+	background-color: #fff;
 	box-sizing: border-box;
 	/* padding-left: 6px; */
 	width: 240px;
