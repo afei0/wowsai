@@ -9,10 +9,6 @@
 	font-size: 20px;
 	width: 200px;
 }
-.scrtoprighttoprightdown a{
-	color:#fff;
-	display: block;
-}
 .scrtoplefttop li span{
 	font-size: 12px;
 	line-height: 26px;
@@ -389,11 +385,6 @@ margin-right: 5px;
 	width: 38px;
 
 }
-.fenbg{
-	position: relative;
-	z-index: 99;
-	background-color: #fff;
-}
 .fentop{
 	width: 240px;
 	background-color: #ccc;
@@ -427,8 +418,6 @@ margin-right: 5px;
 	font-size: 14px;
 }
 .fenbg{
-	position: relative;
-	background-color: #fff;
 	box-sizing: border-box;
 	/* padding-left: 6px; */
 	width: 240px;
